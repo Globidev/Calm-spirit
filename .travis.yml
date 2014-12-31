@@ -1,7 +1,0 @@
-language: cpp
-compiler:
- - clang
-
-script:
- - make
- - ./calm_spirit
